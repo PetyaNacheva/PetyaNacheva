@@ -1,8 +1,7 @@
-**Hi, I’m @Peya Simeonova Nacheva**
-- 👀 I’m interested in ...
+**Hi, I’m Peya Simeonova Nacheva**
 - 🌱 I’m currently learning Java, as a student in SoftUni Sofia Bulgaria.
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can contact with me on pepisn@abv.bg or +(359) 899020901
+- 💞️ I’m looking to collaborate on Java projects
+- 📫 You can contact with me on pepisn@abv.bg
 
 <!---
 PetyaNacheva/PetyaNacheva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
