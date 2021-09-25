@@ -1,6 +1,6 @@
 **Hi, I’m Peya Simeonova Nacheva**
 - 🌱 I’m currently learning Java, as a student in SoftUni Sofia Bulgaria.
-- 💞️ I’m looking to collaborate on Java projects
+- 📢 I’m looking to collaborate on Java projects
 - 📫 You can contact with me on pepisn@abv.bg
 
 <!---
